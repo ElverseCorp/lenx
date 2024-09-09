@@ -1,0 +1,3 @@
+C:/Projects/lenx/build/CMakeFiles/lenx.dir
+C:/Projects/lenx/build/CMakeFiles/edit_cache.dir
+C:/Projects/lenx/build/CMakeFiles/rebuild_cache.dir

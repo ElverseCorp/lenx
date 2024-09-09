@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Projects/lenx/build",
+  "command": "C:\\msys64\\mingw64\\bin\\gcc.exe -IC:/Projects/lenx/include -g -o CMakeFiles\\lenx.dir\\src\\lenx.c.obj -c C:\\Projects\\lenx\\src\\lenx.c",
+  "file": "C:\\Projects\\lenx\\src\\lenx.c",
+  "output": "CMakeFiles\\lenx.dir\\src\\lenx.c.obj"
+},
+{
+  "directory": "C:/Projects/lenx/build",
+  "command": "C:\\msys64\\mingw64\\bin\\gcc.exe -IC:/Projects/lenx/include -g -o CMakeFiles\\lenx.dir\\src\\main.c.obj -c C:\\Projects\\lenx\\src\\main.c",
+  "file": "C:\\Projects\\lenx\\src\\main.c",
+  "output": "CMakeFiles\\lenx.dir\\src\\main.c.obj"
+}
+]

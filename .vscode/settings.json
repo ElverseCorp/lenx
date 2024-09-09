@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.txt": "plaintext",
+        "lenx.h": "c",
+        "stdint.h": "c"
+    }
+}
